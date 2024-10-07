@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-   <!-- CALCULATOR -->
-    <?php
-
-    ?>
+   <!-- Arrays -->
+   
 </body>
 </html>
