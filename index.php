@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- From Handling -->
-    <?php 
-
-    ?>
-   
+   <!-- PHP Operators -->
 </body>
 </html>
